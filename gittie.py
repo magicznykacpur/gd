@@ -4,7 +4,7 @@ def add():
 
 
 def introduction():
-    print("JP2 GMD")
+    print("insert rare pepe meme")
 
 
 def joke():
