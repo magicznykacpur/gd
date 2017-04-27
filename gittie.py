@@ -16,6 +16,7 @@ def joke():
 
 def shout():
     print("P O T Ę Ż N Y G E J")
+    print("Wiruj jak za dawnych lat")
 
 
 introduction()
