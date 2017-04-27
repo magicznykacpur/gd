@@ -5,9 +5,9 @@ def add():
 
 def introduction():
     print("insert rare pepe meme")
-    print("JP2 GMD")
-    print("Jan Pafeu Czeci kochau Maue Dzieci")
-    john_into(paul[3]) = juri_uran_owsiak
+    print("J GMD")
+    print("Jurek owsiak szuka czeczenuf w lesie")
+    uran_czeczeni([3]) = juri_uran_owsiak
 
 
 def joke():
