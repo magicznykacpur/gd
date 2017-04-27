@@ -5,6 +5,8 @@ def add():
 
 def introduction():
     print("JP2 GMD")
+    print("Jan Pafeu Czeci kochau Maue Dzieci")
+    john_into(paul[3]) = juri_uran_owsiak
 
 
 def joke():
