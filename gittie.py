@@ -14,8 +14,14 @@ def joke():
     print("Żartuję, nie były takie małe")
 
 
+def shout():
+    print("P O T Ę Ż N Y G E J")
+
+
 introduction()
 
 joke()
 
 add()
+
+shout()
