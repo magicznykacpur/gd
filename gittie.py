@@ -5,4 +5,14 @@ def add():
 def introduction():
     print("JP2 GMD")
 
+<<<<<<< HEAD
 introduction()
+=======
+
+def joke():
+    print("Żartuję, nie były takie małe")
+
+introduction()
+
+joke()
+>>>>>>> d66b8a4d1e640b581ab7575e4c3ecb558552c33c
